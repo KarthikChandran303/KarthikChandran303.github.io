@@ -70,6 +70,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
+    id: gallery
     content:
       title: Gallery
       subtitle: ''
@@ -123,7 +124,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Feel free to drop a message!
+        ''
       # Contact (add or remove contact options as necessary)
       email: karthik.ihs30@gmail.com
       # Automatically link email and phone or display as text?
