@@ -123,8 +123,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        ''
+      text: ''
       # Contact (add or remove contact options as necessary)
       email: karthik.ihs30@gmail.com
       # Automatically link email and phone or display as text?
