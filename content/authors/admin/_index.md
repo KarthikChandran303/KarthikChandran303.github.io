@@ -25,7 +25,7 @@ organizations:
     url: https://www.ncsu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I like grass
+bio: ''
 
 # Interests to show in About widget
 #interests:
@@ -107,3 +107,4 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I like grass
