@@ -10,9 +10,9 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Gallery
-    url: #gallery
-    weight: 40
+  # - name: Gallery
+  #   url: #gallery
+  #   weight: 40
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
