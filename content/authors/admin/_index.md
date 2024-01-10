@@ -25,7 +25,7 @@ organizations:
     url: https://www.ncsu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: ''
+bio: I like grass
 
 # Interests to show in About widget
 #interests:
