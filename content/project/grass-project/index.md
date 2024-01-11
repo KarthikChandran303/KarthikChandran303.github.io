@@ -2,6 +2,12 @@
 title: Rendering Dense Grass Fields
 summary: A breakdown of how I used shell texturing to render grass.
 date: 2024-01-07
+
+image:
+  caption: ''
+  focal_point: ''
+  placement: 2
+  preview_only: true
 ---
 {{< video src="grassvid.mp4" controls="yes" >}}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
