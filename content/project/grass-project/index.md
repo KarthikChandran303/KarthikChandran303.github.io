@@ -32,5 +32,6 @@ We then use this data to discard pixels based on the shell height, masking textu
 
 {{< figure src="clipCode.png" caption="Snippet of Clipping Pixels Code" numbered="true" >}}
 
+Note: Clip() discards a fragment if the value passed to it is below zero.
 
 
