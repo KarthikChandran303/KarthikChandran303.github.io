@@ -16,11 +16,11 @@ Rendering grass is a topic that has always intrigued me. In the past, I've exper
 
 {{< video src="grass-breakdown.mp4" controls="yes" >}}
 
-First, a compute shader procedurally generates shells along the normal of the base mesh. Each generated vertex contains normal, UV coordinates, position, and height data. (the height data is normalized that the highest shell has a height of 1 and the lowest shell has a height of 0) This data is then passed to the vertex and fragment shader where we offset the masking textures, discard pixels, and generate color data. A pixel is discarded if the height of its shell exceeds the value sampled in the masking texture. This creates a tapering effect (since higher shells will have more pixels discarded), effectively simulating a grass blade. For my mask, I used a texture generated in Substance Designer.
+First, a compute shader procedurally generates shells along the normal of the base mesh. Each generated vertex contains normal, UV coordinates, position, and height data. (the height data is normalized so that the highest shell has a height of 1 and the lowest shell has a height of 0) This data is then passed to the vertex and fragment shader where we offset the masking textures, discard pixels, and generate color data. A pixel is discarded if the height of its shell exceeds the value sampled in the masking texture. This creates a tapering effect (since higher shells will have more pixels discarded), effectively simulating a grass blade. For my mask, I used a texture generated in Substance Designer.
 
 {{< figure src="grass-height.png" caption="Grass Masking Texture" numbered="true" >}}
 
- The fragment shader is also responsible for displacing the grass wherever the ball moves.
+The fragment shader is also responsible for displacing the grass wherever the ball moves.
 
 {{< video src="uv-grass.mp4" controls="yes" >}}
 
