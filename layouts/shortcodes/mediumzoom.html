@@ -1,0 +1,8 @@
+{{ $src := .Get "src" }}
+{{ $caption := .Get "caption" }}
+{{ $dataZoomable := .Get "data-zoomable" }}
+
+<figure data-zoomable="{{ $dataZoomable }}">
+  <img src="{{ $src }}" alt="{{ $caption }}">
+  <figcaption>{{ $caption }}</figcaption>
+</figure>
