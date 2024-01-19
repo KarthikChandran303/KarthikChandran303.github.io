@@ -1,5 +1,6 @@
 ---
 title: Morsel Munchers
+summary: Two week long game project.
 date: 2023-01-05
 
 featured: true
