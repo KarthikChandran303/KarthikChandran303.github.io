@@ -10,13 +10,6 @@ image:
   preview_only: true
 
 ---
-<script src="js/medium-zoom.js"></script>
-
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    mediumZoom(document.querySelectorAll('[data-zoomable]'));
-  });
-</script>
 
 {{< video src="grassvid.mp4" controls="yes">}}
 
