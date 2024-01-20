@@ -22,5 +22,4 @@ In this project I worked on:
 - Integrating art assets into the scene
 
 [![Shader Graph for Skybox](SkyBoxGraph.png)](/SkyBoxGraph.png)
-*Shader Graph for Skybox*
 
