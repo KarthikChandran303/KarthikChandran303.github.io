@@ -21,6 +21,5 @@ In this project I worked on:
 - Creating shaders and materials: custom skybox shader, heat zone shader, peg color switch shader, and paddle shader.
 - Integrating art assets into the scene
 
-{{< figure src="SkyBoxGraph.png" caption="Shader Graph for Skybox" numbered="true">}}
-[![Alternative Text](SkyBoxGraph.png)](/media/SkyBoxGraph.png)
+[![Shader Graph for Skybox](/SkyBoxGraph.png)](/SkyBoxGraph.png)
 
