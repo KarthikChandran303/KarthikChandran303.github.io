@@ -22,5 +22,5 @@ In this project I worked on:
 - Integrating art assets into the scene
 
 {{< figure src="SkyBoxGraph.png" caption="Shader Graph for Skybox" numbered="true">}}
-[![Alternative Text](SkyBoxGraph.png)](/assets/media/SkyBoxGraph.png)
+[![Alternative Text](SkyBoxGraph.png)](/media/SkyBoxGraph.png)
 
