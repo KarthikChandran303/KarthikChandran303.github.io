@@ -21,5 +21,16 @@ In this project I worked on:
 - Creating shaders and materials: custom skybox shader, heat zone shader, peg color switch shader, and paddle shader.
 - Integrating art assets into the scene
 
-[![Shader Graph for Skybox](SkyBoxGraph.png)](/SkyBoxGraph.png)
+I used Unity's shader graph to create a procedural Skybox shader. 
 
+If we use the world coordinates of a skybox to map textures onto it, we will see UV distortion that stretches textures towards the ends of the skybox. This distortion arises because of the non linear nature of spherical coordinates. To address this issue, we use inverse trigonometric functions to map a linear UV coordinate system from world coordinates.
+
+Here is the subgraph I used to generate said UV coordinates. 
+
+The stars, clouds, and the wavy lines that you see in the skybox are all generated from simple noises. With the Skybox’s UV coordinates, you can generate pretty much any effect possible to makein the fragment shader. Below is the complete graph for the skybox shader. Please click on the image to see the graph in full resolution. 
+[![Shader Graph for Skybox](SkyBoxGraph.png)](/SkyBoxGraph.png)
+To optimize the skybox, it might also be worth it to try and export frames that the skybox shader generates as an animated texture. 
+
+I also created a heat distortion effect that samples and distorts the the background.
+
+Here is the graph for it
