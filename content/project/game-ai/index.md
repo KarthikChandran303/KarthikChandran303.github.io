@@ -1,6 +1,6 @@
 ---
 title: Game AI
-summary: Game AI Projects
+summary: Exploring AI in Games
 date: 2022-04-07
 
 image:
