@@ -29,7 +29,7 @@ If we use the world coordinates of a skybox to map textures onto it, we will see
 
 Here is the subgraph I used to generate said UV coordinates. 
 
-[![SubGraph for Skybox UV Coordinates](UVSubgraph.png)]
+![SubGraph for Skybox UV Coordinates](UVSubgraph.png)
 
 The stars, clouds, and the wavy lines that you see in the skybox are all generated from simple noises. With the Skybox’s UV coordinates, you can generate almost any effect imaginable in the fragment shader. Below is the complete graph for the skybox shader. Please click on the image to view the graph in full resolution.
 
