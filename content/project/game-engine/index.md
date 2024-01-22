@@ -1,7 +1,7 @@
 ---
 title: 2D C++ Game Engine
 summary: Developed a 2D Game Engine using C++ and the SFML library
-date: 2022-08-05
+weight: 4
 
 featured: true
 

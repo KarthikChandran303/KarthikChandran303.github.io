@@ -1,7 +1,7 @@
 ---
 title: Game AI
 summary: Exploring AI in Games
-date: 2022-04-07
+weight: 5
 
 image:
   caption: ''

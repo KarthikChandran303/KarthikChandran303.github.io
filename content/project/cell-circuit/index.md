@@ -1,7 +1,7 @@
 ---
 title: Cell Circuit
 summary: Race around the circulatory system to keep organs healthy!
-date: 2023-01-05
+weight: 6
 
 featured: true
 
