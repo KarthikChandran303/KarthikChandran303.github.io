@@ -1,6 +1,6 @@
 ---
 title: Paddle Dodge
-summary: Adding a twist to the classic game "Breakout"
+summary: Breakout but there's a twist!
 date: 2023-01-05
 
 featured: true

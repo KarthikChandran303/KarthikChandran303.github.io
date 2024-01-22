@@ -1,6 +1,6 @@
 ---
 title: Cell Circuit
-summary: A game where you race around the circulatory system to keep organs healthy!
+summary: Race around the circulatory system to keep organs healthy!
 date: 2023-01-05
 
 featured: true
