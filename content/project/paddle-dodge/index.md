@@ -1,7 +1,7 @@
 ---
-title: Paddle Dodge
-summary: Breakout but there's a twist!
-weight: 3
+title: Nature Inspired Heuristics
+summary: Adapting the red fox algorithm to solve for TSP instances.
+weight: 7
 
 featured: true
 
@@ -14,10 +14,4 @@ image:
 ---
 {{< video src="Game_trimmed.mp4" controls="yes">}}
 
-I recreated Breakout and added my own spin to it - players must dodge incoming obstacles while also keeping the ball in play! Inspired by segments in Star fox shooter-type games.
-
-For this game I worked on:
-- Designing the gameplay loop: players must dodge incoming obstacles while keeping the ball in play. The game will restart if either of two conditions are met: the players loses all their lives, or the platform is hit by too many obstacles.
-- Writing c# code to implement paddle movement and ball bouncing.
-- Using shader graph to create the visual effects (fog and abstract wall), and materials.
-- Implementing UI for scores and lives.
+I had the opportunity to be involved in nature-inspired heuristic research at the undergrad level. We studied a paper that detailed the red fox algorithm, an optimization algorithm based off the behavior of red foxes found in Norway. We then implemented our own version of the red fox algorithm to solve for travelling salesman problem instances. We ran benchmark tests to see how the red fox algorithm compared to other nature-inspired optimization algorithms (such as the bat algorithm). We used the red fox algorithm to generate images: the first picture depicts the algorithm running on pr76 - a TSP instance that contains 76 cities. The colored lines represent the most efficient path found, and the white paths represent paths that were traversed, with the opacity denoting how often they were traversed. The second picture was created from stippled butterfly clipart - this was more of an artistic endeavour rather than serving any specific research purpose! (Personally, my favorite part of the project)
