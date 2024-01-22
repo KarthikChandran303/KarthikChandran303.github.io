@@ -1,6 +1,6 @@
 ---
 title: Morsel Munchers
-summary: Two week long game project.
+summary: A pachinko style game where you feed aliens!
 date: 2023-01-05
 
 featured: true
