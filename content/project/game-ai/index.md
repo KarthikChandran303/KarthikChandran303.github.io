@@ -10,7 +10,7 @@ image:
   preview_only: true
 
 ---
-{{<video src="AI.mov" controls="yes">}}
+{{<video src="AI.mp4" controls="yes">}}
 For my final assignment of CSC 484 - Building Game AI, I created a simulation where two characters traverse an indoor environment. One character is identified as the monster and its goal is to pursue the other character, identified as the player. If the monster catches the player then the two characters return to their respective starting positions.
 
 In this class I:
