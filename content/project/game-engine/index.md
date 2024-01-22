@@ -12,7 +12,8 @@ image:
   preview_only: true
 
 ---
-I created a 2D game engine from scratch using SFML and C++! For the engine I implemented:
+{{<video src="GameEngineRec.mp4" controls="yes">}}
+I developed a 2D game engine using SFML and C++. For the engine I implemented:
 
 - ​A system where timelines can be anchored onto other timelines to manipulate the passage of time in the engine.
 - Multi-threaded Networking using the ZeroMQ library - supports unlimited clients to be connected asynchronously.
