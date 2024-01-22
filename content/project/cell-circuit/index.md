@@ -18,6 +18,7 @@ Cell circuit was a semester long project we worked on as a part of our advanced 
 
 The majority of my work in this project involved:
 - Creating shaders and materials for 3D assets which included developing: cel shader, acid pool shader, grass wavy shader, and translucent shield shader
+{{< video src="ShaderForCell.mp4" controls="yes">}}
 - GPU instanced alveoli that interact with the player
 {{< video src="CellCircuit.mp4" controls="yes">}}
 - 3D modelling organs and cell receptacles
