@@ -9,6 +9,8 @@ image:
   placement: 2
   preview_only: true
 
+HUGO_ENABLEGITINFO: false
+
 ---
 {{< video src="grassvid.mp4" controls="yes">}}
 
