@@ -2,6 +2,7 @@
 title: Nature Inspired Heuristics
 summary: Adapting the red fox algorithm to solve for TSP instances.
 weight: 7
+tags: ["Project"]
 
 featured: true
 

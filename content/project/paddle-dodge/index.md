@@ -2,6 +2,7 @@
 title: Paddle Dodge
 summary: Breakout but there's a twist!
 weight: 3
+tags: ["Game"]
 
 featured: true
 

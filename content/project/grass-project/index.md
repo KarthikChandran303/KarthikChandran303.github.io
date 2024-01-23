@@ -2,6 +2,7 @@
 title: Rendering Dense Grass Fields
 summary: A breakdown of how I used shell texturing to render grass.
 weight: 1
+tags: ["Project"]
 
 image:
   caption: ''

@@ -2,6 +2,7 @@
 title: Morsel Munchers
 summary: A pachinko style game where you feed aliens!
 weight: 2
+tags: ["Game"]
 
 featured: true
 

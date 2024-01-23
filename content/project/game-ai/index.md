@@ -2,6 +2,7 @@
 title: Game AI
 summary: Exploring AI in Games
 weight: 5
+tags: ["Project"]
 
 image:
   caption: ''

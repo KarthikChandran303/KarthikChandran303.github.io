@@ -2,6 +2,7 @@
 title: Cell Circuit
 summary: Race around the circulatory system to keep organs healthy!
 weight: 6
+tags: ["Game"]
 
 featured: true
 
