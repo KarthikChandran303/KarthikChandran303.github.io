@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Gameplay Programmer
+role: Gameplay Programmer | Technical Artist | Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -98,4 +98,4 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I like grass
+With a background in Computer Science, I have extensive experience crafting engaging experiences for users. Over the last few years, I've come to realize my passion for creating games and visuals — be it through engineering gameplay or designing computer graphics. I've cataloged some of my most cherished projects here; please take a look!
