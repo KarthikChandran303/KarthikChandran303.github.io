@@ -4,6 +4,16 @@ summary: A breakdown of how I used shell texturing to render grass.
 weight: 1
 tags: ["Project"]
 
+links:
+- name: Unity 3D
+  url: https://unity.com/
+- name: Substance Designer
+  url: https://www.adobe.com/products/substance3d-designer.html  
+- name: C#
+  url: https://learn.microsoft.com/en-us/dotnet/csharp/
+- name: HLSL
+  url: https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl
+
 image:
   caption: ''
   focal_point: ''

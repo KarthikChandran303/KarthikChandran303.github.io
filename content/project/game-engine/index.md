@@ -1,10 +1,18 @@
 ---
 title: 2D C++ Game Engine
-summary: Developed a 2D Game Engine using C++ and the SFML library
+summary: Developed a 2D Game Engine using C++ and the SFML library.
 weight: 4
 tags: ["Project"]
 
 featured: true
+
+links:
+- name: C++
+  url: https://isocpp.org/
+- name: SFML
+  url: https://www.sfml-dev.org/
+  name: ZeroMQ
+  url: https://zeromq.org/
 
 image:
   caption: ''

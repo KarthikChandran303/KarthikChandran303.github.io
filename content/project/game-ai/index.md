@@ -1,8 +1,14 @@
 ---
 title: Game AI
-summary: Exploring AI in Games
+summary: Exploring AI in Games.
 weight: 5
 tags: ["Project"]
+
+links:
+- name: C++
+  url: https://isocpp.org/
+- name: SFML
+  url: https://www.sfml-dev.org/
 
 image:
   caption: ''

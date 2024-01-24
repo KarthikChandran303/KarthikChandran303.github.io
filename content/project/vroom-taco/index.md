@@ -6,6 +6,12 @@ tags: ["Game"]
 
 featured: true
 
+links:
+- name: Unity 3D
+  url: https://unity.com/
+- name: Substance Designer
+  url: https://www.adobe.com/products/substance3d-designer.html
+
 image:
   caption: ''
   focal_point: ''

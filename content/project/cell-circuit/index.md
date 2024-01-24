@@ -6,6 +6,14 @@ tags: ["Game"]
 
 featured: true
 
+links:
+- name: Unity 3D
+  url: https://unity.com/
+- name: C#
+  url: https://learn.microsoft.com/en-us/dotnet/csharp/
+- name: HLSL
+  url: https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl
+
 image:
   caption: ''
   focal_point: ''
