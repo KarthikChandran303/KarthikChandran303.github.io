@@ -6,6 +6,12 @@ tags: ["Game"]
 
 featured: true
 
+links:
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/georgecushen
+
 image:
   caption: ''
   focal_point: ''
@@ -24,3 +30,4 @@ For this game I worked on:
 - Implementing UI for scores and lives.
 
 The visuals of the game were fairly simple to implement. The long corridor-like background is composed of instantiated planes, each equipped with a shader. This shader generates procedural patterns and scrolls them towards the camera. The fog that you see is also a plane whose transparency depends on the depth of the scene sampled at a fragment - this causes the walls near the fog plane to taper slowly into the fog. Here is a breakdown of what the scene looks like while the game is in play.
+{{< video src="paddlebreak.mp4" controls="yes">}}
