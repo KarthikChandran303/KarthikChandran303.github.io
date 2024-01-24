@@ -20,9 +20,11 @@ image:
 
 ---
 {{< youtube TSLnff_Ybxw >}}
-Vroom Vroom taco is a VR game where you, a taco truck owner, must fulfil customer orders all while ingredients fling around your truck, equipment catch on fire, and other inconveniences perpetuate chaos. This game was developed with VGDC club at NC State during the Global Game Jam 2020 at Imangi Studios!
+Vroom Vroom taco is a VR game where you, a taco truck owner, must fulfill customer orders all while ingredients fling around your truck, equipment catch on fire, and other inconveniences perpetuate chaos. This game was developed with VGDC club at NC State during the Global Game Jam 2020 at Imangi Studios!
 
 My role as a texturer included:
 - Creating procedural textures in substance designer.
 - Texturing objects in substance painter.
 - Exporting and importing objects and textures into Unity.
+
+You can download the game on itch.io here: https://vgdcncsu.itch.io/vroom-vroom-taco
