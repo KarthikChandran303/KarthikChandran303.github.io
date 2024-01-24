@@ -6,8 +6,6 @@ tags: ["Game"]
 
 featured: true
 
-url_Unity3D: 'https://unity.com/'
-
 image:
   caption: ''
   focal_point: ''
