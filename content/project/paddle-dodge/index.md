@@ -6,9 +6,7 @@ tags: ["Game"]
 
 featured: true
 
-links:
-    name: Unity3D
-    url: https://twitter.com/georgecushen
+url_pdf: ''
 
 image:
   caption: ''
