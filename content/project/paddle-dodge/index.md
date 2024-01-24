@@ -6,7 +6,6 @@ tags: ["Game"]
 
 featured: true
 
-Custom links (uncomment lines below)
 links:
 - name: Unity 3D
   url: http://example.org
