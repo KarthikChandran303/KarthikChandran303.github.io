@@ -1,6 +1,6 @@
 ---
 title: Game AI
-summary: Exploring AI in Games.
+summary: Exploring AI in games.
 weight: 5
 tags: ["Project"]
 
