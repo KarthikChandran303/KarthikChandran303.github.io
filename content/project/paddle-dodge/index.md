@@ -6,7 +6,10 @@ tags: ["Game"]
 
 featured: true
 
-url_Unity3D: 'https://unity.com/'
+Custom links (uncomment lines below)
+links:
+- name: Unity 3D
+- url: http://example.org
 
 image:
   caption: ''
