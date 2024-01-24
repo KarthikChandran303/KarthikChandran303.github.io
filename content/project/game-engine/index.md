@@ -9,9 +9,9 @@ featured: true
 links:
 - name: C++
   url: https://isocpp.org/
-  name: SFML
+- name: SFML
   url: https://www.sfml-dev.org/
-  name: ZeroMQ
+- name: ZeroMQ
   url: https://zeromq.org/
 
 image:
