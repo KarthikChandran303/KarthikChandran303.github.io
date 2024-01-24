@@ -8,7 +8,9 @@ featured: true
 
 links:
 - name: Unity 3D
-  url: http://example.org
+  url: https://unity.com/
+- name: C#
+  url: https://learn.microsoft.com/en-us/dotnet/csharp/
 
 image:
   caption: ''
