@@ -1,5 +1,5 @@
 ---
-title: Webgl & Raytracing Exploration
+title: WebGL & Raytracing Exploration
 summary: Advanced Computer Graphics Projects
 weight: 9
 tags: ["Project"]
